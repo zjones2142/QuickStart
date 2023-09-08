@@ -1,5 +1,5 @@
-pathToVS2022 = 'C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\Common7\\IDE\\devenv.exe'
-pathToVS2019 = 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\Common7\\IDE\\devenv.exe'
+pathToVS2022 = ''    #add paths to program(s) desired here ***BACKSLASHES INDICATING DIRECTORY MUST BE DOUBLED***
+pathToVS2019 = ''
 fop = ''   
 fop1 = ''
 sp = ''
